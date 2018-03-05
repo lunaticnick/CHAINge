@@ -1,4 +1,4 @@
-![USEDPOST](https://img.shields.io/badge/USES-GIT-orange.svg?style=for-the-badge) ![USEDPOST](https://img.shields.io/badge/USES-Javascript-blue.svg?style=for-the-badge) ![USEDPOST](https://img.shields.io/badge/USES-Solidity_& Ganache-green.svg?style=for-the-badge)![USEDPOST](https://img.shields.io/badge/USES-Truffle-yellow.svg?style=for-the-badge)
+![USEDPOST](https://img.shields.io/badge/USES-GIT-orange.svg?style=for-the-badge) ![USEDPOST](https://img.shields.io/badge/USES-Javascript-blue.svg?style=for-the-badge) ![USEDPOST](https://img.shields.io/badge/USES-Solidity_&_Ganache-green.svg?style=for-the-badge)![USEDPOST](https://img.shields.io/badge/USES-Truffle-yellow.svg?style=for-the-badge)
 
 
 
